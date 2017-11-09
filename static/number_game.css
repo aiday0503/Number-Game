@@ -1,0 +1,31 @@
+.containe{
+	width: 970px;
+	text-align: center;
+	margin-left: 300px;
+
+}
+
+
+#again{
+	width: 300px;
+	height: 300px;
+	color: white;
+	background-color: red;
+	border:1px solid black;
+	margin-left: 150px;
+}
+
+#win{
+	background-color: green;
+
+}
+input{
+	width: 300px;
+	height: 40px;
+}
+button{
+	width: 160px;
+	background-color: blue;
+	color: white;
+	height: 30px;
+}
